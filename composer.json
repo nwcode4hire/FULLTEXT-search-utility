@@ -1,0 +1,10 @@
+{
+    "name": "nwcode4hire/FULLTEXT-search-utility",
+    "type": "library",
+    "homepage": "http://github.com/nwcode4hire/FULLTEXT-search-utility",
+    "autoload": {
+        "psr-0": {
+            "": "/src"
+        }
+    }
+}
